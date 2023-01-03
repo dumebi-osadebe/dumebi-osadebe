@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MongoDB in addition to my university courses
 - 💞️ I’m looking to collaborate on creative ML projects or data analysis projects especially in relation to my interests expressed
 - 📫 How to reach me:
-      email: dosadebe@ryerson.ca
+      email: dosadebe@torontomu.ca
       linkedin: https://www.linkedin.com/in/dumebi-winifred-osadebe/
 
 <!---
